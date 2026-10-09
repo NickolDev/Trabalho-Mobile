@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Catálogo de Livros</string>
+    <string name="detail_title">Detalhes</string>
+    <string name="only_favorites">Só favoritos</string>
+    <string name="empty_list">Nenhum livro favoritado ainda.\nToque em um livro e favorite-o.</string>
+    <string name="books_count">Livros: %d</string>
+    <string name="favorite">Favorito</string>
+    <string name="no_rating">Sem avaliação</string>
+    <string name="no_synopsis">Sinopse não disponível.</string>
+    <string name="rating_format">★ %.1f</string>
+    <string name="rating_value">%.1f / 5</string>
+    <string name="book_meta">%1$s · %2$d</string>
+    <string name="label_genre">Gênero</string>
+    <string name="label_year">Ano</string>
+    <string name="label_pages">Páginas</string>
+    <string name="label_rating">Avaliação</string>
+    <string name="label_synopsis">Sinopse</string>
+    <string name="add_favorite">Adicionar aos favoritos</string>
+    <string name="remove_favorite">Remover dos favoritos</string>
+    <string name="favorite_added">Adicionado aos favoritos</string>
+    <string name="favorite_removed">Removido dos favoritos</string>
+    <string name="book_not_found">Livro não encontrado</string>
+</resources>
